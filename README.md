@@ -20,9 +20,9 @@ When these buttons are pressed, paralel branches are added (i.e. they are no lon
 is increased and the frequency is reduced. These functions are not implemented in this pen.
 
 ### Materials:
-- [Cilyndrical ferrite beads (15 mm x 3 diameter):] (https://es.aliexpress.com/item/1005003389898844.html)
-- [Magnetic copper wire 0.1 mm section:] (https://es.aliexpress.com/item/1005005549459084.html)
-- [Normally closed NC pushbuttons:] (https://es.aliexpress.com/item/32766821112.html)
+- [Cilyndrical ferrite beads (15 mm x 3 diameter):](https://es.aliexpress.com/item/1005003389898844.html)
+- [Magnetic copper wire 0.1 mm section:](https://es.aliexpress.com/item/1005005549459084.html)
+- [Normally closed NC pushbuttons:](https://es.aliexpress.com/item/32766821112.html)
 - Multiple valued capacitors (around 10s-100s pF), or [tunable capacitors](https://es.aliexpress.com/item/1005005699478367.html)
 
 ### Notes:
